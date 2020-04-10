@@ -3,11 +3,197 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/calling/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nowlaswolf.github.io/lolcathugo/categories/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/definition/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/categories/functions/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://nowlaswolf.github.io/lolcathugo/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/returning/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/conditionals/</loc>
+    <lastmod>2016-05-05T08:55:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/categories/flow-control/</loc>
+    <lastmod>2016-05-05T08:55:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/loops/</loc>
+    <lastmod>2016-05-05T08:55:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/assign_statements/</loc>
+    <lastmod>2016-05-05T08:50:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/expression_statements/</loc>
+    <lastmod>2016-05-05T08:50:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/flow_statements/</loc>
+    <lastmod>2016-05-05T08:50:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/categories/statements/</loc>
+    <lastmod>2016-05-05T08:50:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/terminal_based/</loc>
+    <lastmod>2016-05-05T08:48:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/boolean/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/precedence/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/casting/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/comparison/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/concatenation/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/math/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/categories/operators/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/about_types/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/arrays/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/booleans/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/numerical/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/strings/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/categories/types/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/types/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/untyped/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/declaration/</loc>
+    <lastmod>2016-05-05T08:39:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/naming/</loc>
+    <lastmod>2016-05-05T08:39:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/scope/</loc>
+    <lastmod>2016-05-05T08:39:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/categories/variables/</loc>
+    <lastmod>2016-05-05T08:39:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/comments/</loc>
+    <lastmod>2016-05-04T17:35:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/file_creation/</loc>
+    <lastmod>2016-05-04T17:35:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/categories/formatting/</loc>
+    <lastmod>2016-05-04T17:35:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/lolcode/whitespace/</loc>
+    <lastmod>2016-05-04T17:35:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nowlaswolf.github.io/lolcathugo/categories/input/output/</loc>
   </url>
   
   <url>
